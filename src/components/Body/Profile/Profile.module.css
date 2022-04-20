@@ -1,0 +1,32 @@
+.avatar {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 90px;
+    left: 45px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 22px;
+}
+
+.info {
+    position: absolute;
+    top: 215px;
+    left: 270px;
+}
+
+.userName {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+
+.userEmail {
+    margin-top: 5px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #444D5C;
+}
